@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**JefersonAVD/JefersonAVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seja bem vindo! 
 
-Here are some ideas to get you started:
+Olá! Meu nome é Jeferson Dias e esse é o pedaço do meu mundo de desenvolvedor! Fique a vontade!
+## Sobre mim
+Sou um desenvolvedor fullstack especializado em PHP e Wordpress. Tenho conhecimentos em Front-end (HTML, CSS e Javascript).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Qualificação também em pré-processadores (SASS), frameworks (React Js e Vue js) e alguma base em estruturas de back-end (MySQL).
+
+Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com relativa velocidade e sou apaixonado pelo processo e o caminho ensino.
+
+> "O conhecimento não vai mudar o mundo. O homem que pode mudar o mundo, o conhecimendo pode mudar o homem." - Paulo Freire
+
+## Hobbs
+
+- Estudar 📚
+- Jogar 🎮
+- Programar 👨‍💻
+- Tocar Ukulele 🎸
+- Treinar (sou graduado em Educação física. BIRLL!!!) 🏋
+## Paixões
+- Jogos
+- Filmes (cinéfalo de carteirinha e pseudo crítico)
+- Resolver problemas (sim! Haha)
+- Comer pizza e lasanha
+- UM BOM SUSHI!!!! 
+## Referencias
+- Marie Curie
+- Paulo Freire
+- Mandela
+- Luiz Gama
+- Martin Luther King Jr.
