@@ -23,7 +23,8 @@ Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com rel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='50' style='display: inline;' />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' />
+                   
 </div>  
                  
 ## O que estou aprendendo
