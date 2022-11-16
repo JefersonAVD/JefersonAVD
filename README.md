@@ -1,5 +1,6 @@
 
 <img src="https://github.com/JefersonAVD/JefersonAVD/blob/main/Sprite-GitHub.gif" alt='Meu Gif' style='width:100vw'/>
+
 # Seja bem vindo! 
 
 Olá! Meu nome é Jeferson Dias e esse é o pedaço do meu mundo de desenvolvedor! Fique a vontade!
