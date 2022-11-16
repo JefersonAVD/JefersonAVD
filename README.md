@@ -7,7 +7,7 @@ Olá! Meu nome é Jeferson Dias e esse é o pedaço do meu mundo de desenvolvedo
 ## Sobre mim
 Sou um desenvolvedor fullstack especializado em PHP e Wordpress. Tenho conhecimentos em Front-end (HTML, CSS e Javascript).
 
-Qualificação também em pré-processadores (SASS), frameworks (React Js e Vue js) e alguma base em estruturas de back-end (MySQL).
+Qualificação também em pré-processadores (SASS), frameworks (React Js) e alguma base em estruturas de back-end (MySQL).
 
 Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com relativa velocidade e sou apaixonado pelo processo e o caminho ensino.
 
