@@ -1,4 +1,5 @@
 
+![](https://github.com/JefersonAVD/JefersonAVD/blob/main/Sprite-GitHub.gif)
 # Seja bem vindo! 
 
 Olá! Meu nome é Jeferson Dias e esse é o pedaço do meu mundo de desenvolvedor! Fique a vontade!
