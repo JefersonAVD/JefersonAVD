@@ -15,19 +15,23 @@ Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com rel
 
 ## Tecnologias
 
+<div style='display:flex'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width='50' style="display:inline;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50' style="display:inline;" />
-                    
+</div>  
+                 
 ## O que estou aprendendo
 
+<div style='display:flex'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width='50' style="display:inline;" />
-          
+</div>
+       
 ## Hobbs
 
 - Estudar 📚
