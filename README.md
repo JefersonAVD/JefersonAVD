@@ -30,9 +30,8 @@ Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com rel
 ## O que estou aprendendo
 
 <div style='display:flex'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' style="display:inline;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width='50' style="display:inline;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width='50' style="display:inline;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='50' style="display:inline;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width='50' style="display:inline;" />
 </div>
        
 ## Hobbs
