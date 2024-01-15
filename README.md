@@ -7,7 +7,7 @@ Olá! Meu nome é Jeferson Dias e esse é o pedaço do meu mundo de desenvolvedo
 ## Sobre mim
 Sou um desenvolvedor fullstack especializado em PHP e Wordpress. Tenho conhecimentos em Front-end (HTML, CSS e Javascript).
 
-Qualificação também em pré-processadores (SASS), frameworks (React Js) e alguma base em estruturas de back-end (MySQL).
+Qualificação também em pré-processadores (SASS), frameworks (React Js e Laravel) e alguma base em estruturas de back-end (MySQL).
 
 Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com relativa velocidade e sou apaixonado pelo processo e o caminho ensino.
 
@@ -18,20 +18,19 @@ Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com rel
 <div style='display:flex'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width='50' style="display:inline;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='50' style="display:inline;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50' style="display:inline;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='50' style='display: inline;' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' />
-                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' />           
 </div>  
                  
 ## O que estou aprendendo
 
 <div style='display:flex'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='50' style="display:inline;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width='50' style="display:inline;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width='50' style="display:inline;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='50' style="display:inline;" />
 </div>
        
 ## Hobbs
