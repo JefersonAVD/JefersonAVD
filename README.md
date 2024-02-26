@@ -29,7 +29,7 @@ Não tenho medo do novo e nem de desafios (fui criado com eles), aprendo com rel
 
 <div style='display:flex'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width='50' style="display:inline;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='50' style="display:inline;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='50' style="display:inline;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='50' style="display:inline;"/>
 </div>
        
